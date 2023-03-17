@@ -2,6 +2,9 @@
 Java-based Android music player application, where you can play music from your phone storage. 
 Note It! make it easier to store notes with its simplistic UI and the user is able to manage the notes easily according to the priority number.
 
+![giphy (11)](https://user-images.githubusercontent.com/48319985/225923913-4284ccb6-cd2c-4237-b970-c8dd8cd3bc82.gif)
+
+
 # Features
 * Simplistic UI
 * Easy to use interface
